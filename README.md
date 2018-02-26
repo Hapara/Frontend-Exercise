@@ -17,9 +17,13 @@ To get the fonts we have used copy this code into the `<head>` of your html docu
 ### Code Spec:
 
 Use any modern JS framework (Angular, React, Vue) to create the supplied design.
-You're free to use as many third party JS libraries that you see fit.
+Try to include two reusable components using your framework. Examples of these might be the navigation menu on the top left and the dropdown menu on the top right.
 
-### Bonus points if you provide: 
+When clicking the `View as student` option in the drop down the UI should change as per the design. Then when clicking the `View as teacher` option it should change back to it's original state.
+
+A unit test to prove some functionality works.
+
+### Bonus points if you provide any of the following: 
 
 A responsive layout which adjusts to various screen sizes. The design does not include a mobile version so it is up to
 the developer to use thier own judgement to present this.
