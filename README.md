@@ -22,4 +22,4 @@ the developer to use thier own judgement to present this.
 
 ### How to send it to us:
 
-Please fork this repository or create your own git repository an provide us access to clone this when you are finished, With instructions to build and run the application.
+Please fork this repository or create your own git repository and provide us access to clone it when you are finished, with instructions to build and run the application.
