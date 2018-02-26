@@ -1,6 +1,6 @@
 ## Hapara frontend coding challenge
 
-You'll be building a simple header with a drop down menu interaction.
+You'll be building a simple header with a drop down menu interaction. Spend around 2 hours on this you don't have to complete everything.
 
 ### Design and behavior:
 
