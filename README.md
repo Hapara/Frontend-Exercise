@@ -4,7 +4,7 @@ You'll be building a simple header with a drop down menu interaction. Spend arou
 
 ### Design and behavior:
 
-Login to invision here to see the design: https://projects.invisionapp.com/d/main#/projects/prototypes/13483555
+Login to invision here to see and inspect the design: https://projects.invisionapp.com/d/main#/projects/prototypes/13483555
 
 User: dev_candidate@hapara.com
 
