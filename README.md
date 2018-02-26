@@ -19,7 +19,7 @@ To get the fonts we have used copy this code into the `<head>` of your html docu
 Use any modern JS framework (Angular, React, Vue) to create the supplied design.
 Try to include two reusable components using your framework. Examples of these might be the navigation menu on the top left and the dropdown menu on the top right.
 
-When clicking the `View as student` option in the drop down the UI should change as per the design. Then when clicking the `View as teacher` option it should change back to it's original state.
+When clicking the `student@school.org` option in the drop down the UI should change as per the design to the student view. Then when clicking the `teacher@school.org` option it should change back to it's original state.
 
 A unit test to prove some functionality works.
 
