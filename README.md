@@ -6,7 +6,8 @@ You'll be building a simple header with a drop down menu interaction.
 
 Login to invision here to see the design: (Link TBC)
 
-To get the fonts we have used copy this code into the head of your html document: 
+To get the fonts we have used copy this code into the head of your html document:
+
 `<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">`
 
 ### Code Spec:
