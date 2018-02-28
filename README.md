@@ -1,6 +1,6 @@
 ## Hapara frontend coding challenge
 
-You'll be building a simple header with a drop down menu interaction. Spend around 2 hours on this you don't have to complete everything.
+You'll be building a simple header with a drop down menu interaction. Spend a couple of hours on this we don't want you to be losing sleep but it would be nice to finish all the points in the code spec.
 
 ### Design and behavior:
 
@@ -16,17 +16,25 @@ To get the fonts we have used copy this code into the `<head>` of your html docu
 
 ### Code Spec:
 
-Use any modern JS framework (Angular, React, Vue) to create the supplied design.
+Use any modern JS framework (Angular, React, Vue) to create something that looks like the supplied design.
 Try to include two reusable components using your framework. Examples of these might be the navigation menu on the top left and the dropdown menu on the top right.
 
 When clicking the `student@school.org` option in the drop down the UI should change as per the design to the student view. Then when clicking the `teacher@school.org` option it should change back to it's original state.
 
 A unit test to prove some functionality works.
 
-### Bonus points if you provide any of the following: 
+### Bonus points if you provide any of the following:
 
 A responsive layout which adjusts to various screen sizes. The design does not include a mobile version so it is up to
 the developer to use thier own judgement to present this.
+
+OR
+
+Show us something cool you have seen recently in the frontend space. It's up to you it's a blank canvas.
+
+OR
+
+Extra special bonus points if you show us a way to take an AngularJS 1.x app and integrate a newer framework for the purpose of upgrading in the future.
 
 ### How to send it to us:
 
