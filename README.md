@@ -38,4 +38,4 @@ Extra special bonus points if you show us a way to take an AngularJS 1.x app and
 
 ### How to send it to us:
 
-Please fork this repository or create your own git repository and provide us access to clone it when you are finished, with instructions to build and run the application.
+Please create your own git repository and provide us access to clone it when you are finished, with instructions to build and run the application.
