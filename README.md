@@ -8,7 +8,7 @@ Login to invision here to see and inspect the design: https://projects.invisiona
 
 User: dev_candidate@hapara.com
 
-Password: feTest
+Password: haparatest
 
 To get the fonts we have used copy this code into the `<head>` of your html document:
 
