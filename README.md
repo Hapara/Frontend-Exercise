@@ -21,7 +21,7 @@ Try to include two reusable components using your framework. Examples of these m
 
 When clicking the `student@school.org` option in the drop down the UI should change as per the design to the student view. Then when clicking the `teacher@school.org` option it should change back to it's original state.
 
-A unit test to prove some functionality works.
+A unit or end-to-end test to prove some functionality works.
 
 ### Bonus points if you provide any of the following: 
 
