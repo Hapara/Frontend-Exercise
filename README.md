@@ -32,10 +32,6 @@ OR
 
 Integrate something cool you have seen recently in the frontend space. It's up to you it's a blank canvas.
 
-OR
-
-Extra special bonus points if you show us a way to take an AngularJS 1.x app and integrate React for the purpose of upgrading in the future.
-
 ### How to send it to us:
 
 Please create your own git repository and provide us access to clone it when you are finished, with instructions to build and run the application.
