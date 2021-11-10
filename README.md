@@ -16,7 +16,7 @@ To get the fonts we have used copy this code into the `<head>` of your html docu
 
 ### Code Spec:
 
-Use either React or AngularJS to create something that follows the supplied design.
+Use React to create something that follows the supplied design.
 Try to include two reusable components using your framework. Examples of these might be the navigation menu on the top left and the dropdown menu on the top right.
 
 When clicking the `student@school.org` option in the drop down the UI should change as per the design to the student view. Then when clicking the `teacher@school.org` option it should change back to it's original state.
