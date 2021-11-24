@@ -4,7 +4,7 @@ You'll be building a simple header with a drop down menu interaction. Spend a co
 
 ### Design and behavior:
 
-Login to invision here to see and inspect the design: https://projects.invisionapp.com/d/main#/projects/prototypes/13483555
+Login to Figma here to see and inspect the design: https://www.figma.com/file/0rl7UJm2AZsifyXg37TM6U/frontend-test?node-id=0%3A14
 
 User: dev_candidate@hapara.com
 
